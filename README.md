@@ -11,9 +11,16 @@ Here's a more detailed description of a port scanner:
 # How to Use it 
 
 First
+git clone 
 
      git clone https://github.com/Essam0o/port-scanner.git
-Second
+     
+Second "know your ip address" 
+open terminal 
+
+    sudo ifconfig
+
+" Third run the port scanner "
 
     python3 scanner.py "IP Address"
 
