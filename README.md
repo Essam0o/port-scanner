@@ -10,5 +10,13 @@ Here's a more detailed description of a port scanner:
 
 # How to Use it 
 
-First 
+First
 
+     git clone https://github.com/Essam0o/port-scanner.git
+Second
+
+    python3 scanner.py "IP Address"
+
+(remove the " after and before ip add )
+
+    
